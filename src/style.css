@@ -1,6 +1,3 @@
-fieldset {
-  margin-bottom: 20px;
-}
 
 div {
   margin-bottom: 10px;
@@ -8,4 +5,8 @@ div {
 
 fieldset div:last-child {
   margin: 0;
+}
+
+fieldset {
+  margin-bottom: 20px;
 }
